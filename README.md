@@ -1,11 +1,5 @@
-Enter Project Name
+Live Clock
 ==================
-## What this project does
+## Shows you the current Time with date and the weekday🥰
 
-## Why this project is useful
-
-## How we built this 
-
-## Accomplishments that we are proud of 
-
-## What is next for this project
+## Just Having Fun with Learning💕🥳🥳
